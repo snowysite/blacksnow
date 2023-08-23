@@ -1,0 +1,137 @@
+/*body{
+    background-color: #E5E5E5;
+    margin: 20;
+    padding: 50;
+}*/
+header {
+    background-color: #fff;
+    width: 1280px;
+    text-align: center;
+    min-width: 500px;
+    margin: 50px,50px;
+}
+
+.header-img {
+    width: 53px;
+    height: 52px;
+    position: absolute;
+    left: 73px;
+    top: 67px;
+}
+
+.by-inline {
+    font-family: Helvetica;
+    color: black;
+    float: left;
+    font-size: 20px;
+    padding-left: 10px;
+    text-transform: uppercase;
+}
+.by-inline h1{
+    margin-bottom: 0px;
+    margin-top: 51px;
+}
+.by-inline h4{
+    margin-top: 0px;
+}
+header span{
+    color: red;
+}
+.navigation {
+    align-items: center;
+    margin: 30px 3px;
+    padding: 18px 6px;
+    display: flex;
+    margin-bottom: 0px;
+    justify-content: space-evenly;
+    font-weight: 600;
+}
+.search1{
+    margin-right: 24px;
+}
+.search2{
+    margin-right: 24px;
+}
+
+.head {
+    display: flex;
+    padding-left: 122px;
+}
+main {
+background-color: black;
+width: auto;
+height: 414px;;
+}
+.text {
+   color: #fff;
+   font-family: 'Glory', sans-serif;
+   font-size: 20px;
+   font-weight: 200;
+   text-transform: uppercase;
+   position: absolute;
+    left: 90px;
+    top: 216px;
+
+}
+button {
+    background-color: black;
+    width: 200px;
+    border: 1px solid white;
+    border-radius: 10px;
+    height: 60px;
+    position: absolute;
+    right: 798px;
+    top: 460px;
+    font-size: 15px;
+    font-weight: 100;
+    font-family: Roboto slab;
+    color: white;
+    transition: 0.5s;
+    cursor: pointer;
+}
+button:hover{
+    background-color: #fff;
+    color: #000;
+    font-weight: 600;
+    
+}
+   
+
+main img{
+    width: 546px;
+    position: absolute;
+    right: 14px;
+    top: 198px;
+}
+.color-div{
+    background-color: #E5E5E5;
+    width: auto;
+    height: 70px;
+}
+.main2 {
+    padding-top: 50px;
+    background-color: rgba(0, 255, 0, 0.1);
+    height: 608px;
+    
+}
+.main2  h1 {
+    text-align: center;
+   text-decoration-line:underline;
+   text-decoration-color: red;
+}
+.cards {
+    display: flex;
+    justify-content: space-evenly;
+    
+}
+.main2{
+    padding-top: 50px;
+}
+
+.comp{
+    font-size: 35px;
+    font-weight: 600;
+}
+.text-reset{
+    text-decoration: none;
+}
